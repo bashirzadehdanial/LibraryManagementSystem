@@ -19,7 +19,7 @@ The Library Management System is a simple console application written in C#. It 
 
 ## How to Run
 
-1. **Clone the Repository**:
-   ```sh
+ **Clone the Repository**:
+   
    git clone https://github.com/bashirzadehdanial/LibraryManagementSystem.git
    cd LibraryManagementSystem

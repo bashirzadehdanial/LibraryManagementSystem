@@ -17,9 +17,3 @@ The Library Management System is a simple console application written in C#. It 
 - **Library.cs**: Contains the `Library` class with methods to manage the collection of books.
 - **Program.cs**: The main entry point of the application, handling user interaction and executing commands.
 
-## How to Run
-
- **Clone the Repository**:
-   
-   git clone https://github.com/bashirzadehdanial/LibraryManagementSystem.git
-   cd LibraryManagementSystem
